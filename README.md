@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Rishikesh Shinde</h1>
 <h3 align="left">A web enthusiast from Pune, India.</h3>
 
-<h3 align="left">Can connect me with: </h3>
+<h3 align="left">You can connect with me through: </h3>
 <p align="left">
 <a href="https://twitter.com/rishike16406089" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishike16406089" height="30" width="40" /></a> &nbsp;
 <a href="https://linkedin.com/in/rishikesh-shinde-1211b5192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishikesh-shinde-1211b5192" height="30" width="40" /></a> &nbsp;
