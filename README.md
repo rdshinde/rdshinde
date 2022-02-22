@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rishikesh Shinde</h1>
-<h3 align="center">A web enthusiast from Pune, India.</h3>
+<h1 align="left">Hi 👋, I'm Rishikesh Shinde</h1>
+<h3 align="left">A web enthusiast from Pune, India.</h3>
 
 <h3 align="left">Can connect me with: </h3>
 <p align="left">
