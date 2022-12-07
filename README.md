@@ -11,7 +11,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rdshinde&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
 
-[![@rdshinde's Holopin board](https://holopin.io/api/user/board?user=rdshinde)](https://holopin.io/@rdshinde)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rdshinde&icon=0&color=1)](https://visitcount.itsvg.in)
